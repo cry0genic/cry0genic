@@ -1,7 +1,7 @@
 ### Hey, I'm Aditya Thakur - AKA cry0genic 👋
 
 
-## I'm currently a undergrad student at BITS Pilani!
+## I'm currently an undergrad student at BITS Pilani!
 
 - 🌱 I’m currently learning node.JS 
 - 👯 I’m looking to collaborate with other developers
