@@ -3,7 +3,7 @@
 
 ## I'm currently an undergrad student at BITS Pilani!
 
-- 🌱 I’m currently learning node.JS 
+- 🌱 I’m currently learning node.JS and Django
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports
