@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning node.JS and Django
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: ...
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports
 
 
