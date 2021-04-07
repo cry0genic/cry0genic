@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Node.js and Django
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: ...
-- ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports
+- ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 
 
 
