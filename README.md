@@ -35,4 +35,4 @@
 
 [twitter]: https://twitter.com/cry0genic11
 [instagram]: https://instagram.com/aditya_11_
-[linkedin]: https://linkedin.com/in/aditya-thakur-4452b4204
+[linkedin]: https://linkedin.com/in/aditya11-thakur
