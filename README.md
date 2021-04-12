@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: ...
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=cry0genic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
