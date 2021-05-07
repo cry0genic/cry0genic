@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [Django REST](https://github.com/encode/django-rest-framework) & [GraphQL](https://docs.github.com/en/graphql)!
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Strengthen BackEnd Web Development and start with Software Development!
+- 🥅 2021 Goals: Learn new stuff and apply it to solve real world problems to help people!🤍
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 - 📫 How to reach me: cry0genic1103@gmail.com
 - 😄 Pronouns: He/Him
