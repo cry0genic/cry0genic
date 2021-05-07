@@ -14,8 +14,8 @@
 
 - [DevConnect](https://github.com/cry0genic/DevConnect): Code for a platform where developers can interact.
 - [Docker](https://github.com/cry0genic/Docker): Repository to learn Docker and deployment to AWS. 
-- [Winter-Assignment](https://github.com/cry0genic/DVM-Winter-Assignment): My first Django project.
-- [FrontEnd](https://github.com/cry0genic/Omnifood): My efforts to learn FrontEnd 😄.
+- [Zodiac](https://github.com/cry0genic/DVM-Winter-Assignment): My first Django project.
+- [FrontEnd](https://github.com/cry0genic/Omnifood): My efforts to learn FrontEnd.
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=cry0genic&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
