@@ -22,10 +22,10 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[Website](https://www.cry0genic.github.io) •
+[Mail](mailto:f20200630@pilani.bits-pilani.ac.in) •
+[LinkedIn](https://www.linkedin.com/in/aditya11-thakur/) •
+[Instagram](https://www.instagram.com/aditya_11_/) 
 
 <br />
 
@@ -43,6 +43,4 @@
 
 
 
-[twitter]: https://twitter.com/cry0genic11
-[instagram]: https://instagram.com/aditya_11_
-[linkedin]: https://linkedin.com/in/aditya11-thakur
+
