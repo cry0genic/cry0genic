@@ -3,6 +3,7 @@
 
 ## I'm currently an undergrad student at BITS Pilani!
 
+- 🚀 Co-founder of [Commit](https://commit.net.in)!
 - 🌱 I’m currently learning [GoLang](https://github.com/golang)!
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn new stuff and apply it to solve real world problems to help people!🤍
@@ -15,7 +16,6 @@
 - [DevConnect](https://github.com/cry0genic/DevConnect): Code for a platform where developers can interact.
 - [Docker](https://github.com/cry0genic/Docker): Repository to learn Docker and deployment to AWS. 
 - [Zodiac](https://github.com/cry0genic/DVM-Winter-Assignment): My first Django project.
-- [FrontEnd](https://github.com/cry0genic/Omnifood): My efforts to learn FrontEnd.
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=cry0genic&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
