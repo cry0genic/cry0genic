@@ -3,7 +3,6 @@
 
 ## I'm currently an undergrad student at BITS Pilani!
 
-- 🚀 Co-founder of [Commit](https://commit.net.in)!
 - 🌱 I’m currently learning [GoLang](https://github.com/golang)!
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn new stuff and apply it to solve real world problems to help people!🤍
