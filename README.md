@@ -10,12 +10,6 @@
 - 📫 How to reach me: cry0genic1103@gmail.com
 - 😄 Pronouns: He/Him
 
-**💻 If you're here to checkout my work, take a look at these repositories**: 
-
-- [DevConnect](https://github.com/cry0genic/DevConnect): Code for a platform where developers can interact.
-- [Docker](https://github.com/cry0genic/Docker): Repository to learn Docker and deployment to AWS. 
-- [Zodiac](https://github.com/cry0genic/DVM-Winter-Assignment): My first Django project.
-
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=cry0genic&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
