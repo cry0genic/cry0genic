@@ -3,9 +3,10 @@
 
 ## I'm currently an undergrad student at BITS Pilani!
 
-- 🌱 I’m currently learning [GoLang](https://github.com/golang)!
+- 🌱 I’m currently learning [GoLang](https://github.com/golang)! and [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Learn new stuff and apply it to solve real world problems to help people!🤍
+- 🚀 Co-founder [Commit](https://commit.net.in)
+- 🥅 2021 Goals: Entrepreneurship and Web3
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 - 📫 How to reach me: cry0genic1103@gmail.com
 - 😄 Pronouns: He/Him
