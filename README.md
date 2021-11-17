@@ -3,7 +3,7 @@
 
 ## I'm currently an undergrad student at BITS Pilani!
 
-- 🌱 I’m currently learning [GoLang](https://github.com/golang)! and [Rust](https://www.rust-lang.org/)
+- 🌱 I’m currently learning [GoLang](https://github.com/golang) and [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate with other developers.
 - 🚀 Co-founder [Commit](https://commit.net.in)
 - 🥅 2021 Goals: Entrepreneurship and Web3
