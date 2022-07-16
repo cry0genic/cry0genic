@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)!
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Entrepreneurship and Web3
+- 🥅 2022 Goals: Entrepreneurship and Web3
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 - 📫 How to reach me: f20200630@pilani.bits-pilani.ac.in
 - 😄 Pronouns: He/Him
