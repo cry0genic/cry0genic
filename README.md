@@ -4,8 +4,8 @@
 ## I'm currently an undergrad student at BITS Pilani!
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)!
-- ✨ I’ve moved on to explore fields like finance, venture capital, product management and data research!
-- 🥅 2022 Goals: Buidl [PYOR](https://pyor.xyz/) | Explore Web3
+- ✨ I’ve moved on to explore other fields such as product management, venture capital & management consulting!
+- 🥅 2023 Goals: Buidl [PYOR](https://pyor.xyz/)
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 - 📫 How to reach me: f20200630@pilani.bits-pilani.ac.in
 - 😄 Pronouns: He/Him
