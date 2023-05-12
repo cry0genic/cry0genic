@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)!
 - ✨ I’ve moved on to explore other fields such as product management, venture capital & management consulting!
-- 🥅 2023 Goals: Buidl [PYOR](https://pyor.xyz/)
+- 🥅 2023 Goals: TBA
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 - 📫 How to reach me: f20200630@pilani.bits-pilani.ac.in
 - 😄 Pronouns: He/Him
