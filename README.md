@@ -1,11 +1,11 @@
 ### Hey, I'm Aditya Thakur - AKA cry0genic 👋
 
 
-## I'm currently an undergrad student at BITS Pilani!
+## I'm currently an undergrad student at BITS Pilani pursuing Computer Science!
 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)!
-- ✨ I’ve moved on to explore other fields such as product management, venture capital & management consulting!
-- 🥅 2024 Goals: TBA
+- 🌱 I’m currently learning and exploring everything about LLMs (Large Language Models)!
+- ✨ I've worked in both tech and non-tech roles across two early-stage startups.
+- 🥅 2024 Goals: Deep dive into the fascinating world of AI.
 - ⚡ Fun fact: I love to write and play guitar. I'm also into anime and sports!
 - 📫 How to reach me: f20200630@pilani.bits-pilani.ac.in
 - 😄 Pronouns: He/Him
