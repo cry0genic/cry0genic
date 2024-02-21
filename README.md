@@ -1,7 +1,7 @@
-### Hey, I'm Aditya Thakur - AKA cry0genic 👋
+## Hey, I'm Aditya Thakur - AKA cry0genic 👋
 
 
-## I'm currently an undergrad student at BITS Pilani pursuing Computer Science!
+### I'm currently an undergrad student at BITS Pilani pursuing Computer Science!
 
 - 🌱 I’m currently learning and exploring everything about LLMs (Large Language Models)!
 - ✨ I've worked in both tech and non-tech roles across two early-stage startups.
